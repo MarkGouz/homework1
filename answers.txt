@@ -1,0 +1,4 @@
+What is a remote repository?
+
+Aa remote repository is a version of a project that is hosted on the 
+internet.
