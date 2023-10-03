@@ -4,3 +4,7 @@ Merge ties the histories of the two branches that are being merged together but 
 more commits whenever you add something to main. Then rebase makes a more linear project history 
 where your branch gets added onto the original branch but when you make changes to the orignal 
 branch it could be lost in the project history.
+What is a remote repository?
+
+Aa remote repository is a version of a project that is hosted on the 
+internet.
